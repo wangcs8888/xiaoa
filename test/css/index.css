@@ -3,12 +3,12 @@
 }
 div{
 	color: #3397fe;
-	margin: 0 auto;
+	margin: 40px auto;
 	text-align: center;
 }
 img{
 	display: block;
-	width: 100%;
-	/*height: 54px;*/
+	width: 78px;
+	height: 78px;
 	margin: 0 auto;
 }
